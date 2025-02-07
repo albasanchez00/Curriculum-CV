@@ -87,10 +87,6 @@ nav{
         width: 45%;
     }
 }
-
-
-
-
 /* FIN HEADER */
 
 
@@ -135,14 +131,19 @@ main{
         }
     }
 }
-
-
-
 /* FIN MAIN */
 
 
 /* INICIO FOOTER */
-
+footer{
+    height: var(--altura_footer);
+    width: 100vw;
+    background-color: var(--color_primario);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
