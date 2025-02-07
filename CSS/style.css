@@ -29,6 +29,7 @@ ul{
     --color_blanco: white;
     --padding_left_right: 20px;
     --altura_footer:10rem;
+    --ancho_completo:100vw;
 }
 
 body{
@@ -38,7 +39,10 @@ body{
 
 
 /* INICIO HEADER */
-
+header{
+    height: var(--altura_header);
+    width: var(--ancho_completo);
+}
 
 
 
