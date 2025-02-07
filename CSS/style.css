@@ -1,4 +1,4 @@
-/* AJUSTES GENERALES */
+/* INICIO AJUSTES GENERALES */
 *{
     margin: 0;
     padding: 0;
@@ -30,6 +30,36 @@ ul{
     --padding_left_right: 20px;
     --altura_footer:10rem;
 }
+
 body{
     font-family: Verdana, Arial;
 }
+/* FIN AJUSTES GENERALES */
+
+
+/* INICIO HEADER */
+
+
+
+
+
+
+/* FIN HEADER */
+
+
+/* INICIO MAIN */
+
+
+
+
+
+
+/* FIN MAIN */
+
+
+/* INICIO FOOTER */
+
+
+
+
+/* FIN FOOTER */
