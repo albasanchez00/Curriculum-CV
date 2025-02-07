@@ -111,7 +111,8 @@ main{
 }
 
 .content-works{
-    display: flex;
+    display: flex
+;
     flex-direction: column;
     flex-wrap: nowrap;
     width: 100%;
@@ -119,10 +120,16 @@ main{
     border: 1px solid var(--color_primario);
     border-radius: 10px;
     margin-bottom: 20px;
+    align-items: center;
+    p{
+        width: 100%;
+    }
     picture{
         width: 100%;
+        display: flex;
+        justify-content: center;
         img{
-            width: 100%;
+            width: 60%;
             border-radius: 10px;
             padding-bottom: 15px;
         }
