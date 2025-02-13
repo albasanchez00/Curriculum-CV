@@ -106,7 +106,7 @@ main{
     width: 50%;
 }
 
-.content-works{
+.content-works, .content-education{
     display: flex
 ;
     flex-direction: column;
